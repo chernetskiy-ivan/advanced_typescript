@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/chernetskiy-ivan/advanced_typescript/issues"
   },
-  "homepage": "https://github.com/chernetskiy-ivan/advanced_typescript#readme"
+  "homepage": "https://github.com/chernetskiy-ivan/advanced_typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
 }
